@@ -1,0 +1,19 @@
+﻿cff-version: 1.2.0
+title: "Finite-Sample Information Retention in Multinomial Logit Estimation: A Monte Carlo Study of Full and Matched Binary Maximum Likelihood Estimators"
+message: "If you use this code or result archive, please cite the associated manuscript and this repository."
+type: software
+authors:
+  - family-names: Rehman
+    given-names: Abdul
+repository-code: "https://github.com/ADD_USERNAME/mnl-information-retention-monte-carlo"
+date-released: "2026-06-20"
+version: "1.0.0"
+license: MIT
+keywords:
+  - multinomial logit
+  - binary logit
+  - Monte Carlo simulation
+  - maximum likelihood estimation
+  - finite-sample performance
+  - information retention
+  - reproducibility

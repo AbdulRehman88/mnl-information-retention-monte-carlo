@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE/editor files
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary outputs
+*.log
+tmp/
+temp/
+test_*/
+outputs/
+outputs_*/
+outputs_old*/
+outputs_quick/
+outputs_upgraded/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local archives/backups
+src_backup*/
+*.bak
