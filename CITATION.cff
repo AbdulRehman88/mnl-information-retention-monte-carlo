@@ -6,6 +6,8 @@ authors:
   - family-names: Rehman
     given-names: Abdul
 repository-code: "https://github.com/AbdulRehman88/mnl-information-retention-monte-carlo"
+url: "https://doi.org/10.5281/zenodo.20765496"
+doi: "10.5281/zenodo.20765496"
 date-released: "2026-06-20"
 version: "1.0.0"
 license: MIT

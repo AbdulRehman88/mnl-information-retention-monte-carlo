@@ -79,3 +79,11 @@ This repository is released under the MIT License.
 ## Citation
 
 If you use this code, simulation design, or result archive, please cite the associated manuscript and this repository.
+
+## Archived release
+
+The versioned public release of this repository is archived on Zenodo:
+
+DOI: 10.5281/zenodo.20765496
+
+Zenodo archive: https://doi.org/10.5281/zenodo.20765496
