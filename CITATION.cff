@@ -5,7 +5,7 @@ type: software
 authors:
   - family-names: Rehman
     given-names: Abdul
-repository-code: "https://github.com/ADD_USERNAME/mnl-information-retention-monte-carlo"
+repository-code: "https://github.com/AbdulRehman88/mnl-information-retention-monte-carlo"
 date-released: "2026-06-20"
 version: "1.0.0"
 license: MIT
